@@ -26,3 +26,7 @@ the board's appearance should be exactly the same as the one presented in the ex
 implement the functions defined for you in the editor.
 
 Drawing a random integer number can be done by utilizing a Python function called randrange().
+
+
+### Output
+![Screenshot_20230227_020426](https://user-images.githubusercontent.com/79855806/221558830-bc5a7e60-2e13-4d7a-a2df-9f351af0221f.png)
